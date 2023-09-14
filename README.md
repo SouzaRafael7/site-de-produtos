@@ -1,7 +1,9 @@
 # Site de produtos 
 
 Informações sobre o site:
-O site de vendas de camisas de times, foi um projeto feito em sala de aula na Escola Social Marista Irmão Acacio, na matéria de Desenvolvimento Web com o educador Leonardo Santiago Sidon da Rocha. O site tem como finalidade Ajudar a melhorar a escrever códigos, mas tembém aprende a como fazer um site de produtos/vendas
+O site de vendas de camisas de times, foi um projeto feito em sala de aula na Escola Social Marista Irmão Acacio, na matéria de Desenvolvimento Web com o educador Leonardo Santiago Sidon da Rocha. O site tem como finalidade Ajudar a melhorar a escrever códigos, mas tembém aprende a como fazer um site de produtos/vendas.
+
+Meu objetivo nesse site foi de vender camisas de time, mas cada aluno pode 
 
 # Funções
 
