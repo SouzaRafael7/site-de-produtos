@@ -8,9 +8,13 @@ O site de vendas de camisas de times, foi um projeto feito em sala de aula na Es
 O site tem várias funções interessantes apresentadas e utilizadas em sala.
 
 No cabeçalho temos a página principal, sua função é instruir ao visitante para onde ele vai dentro do site;
+
 Logo após temos a Página de produtos, onde fica os produtos à venda;
+
 Depois temos o Sobre, é nele onde a informações sobre a loja;
+
 E por ultimo temos o Fale conosco, onde está localizado os contatos da loja para o cliente.
+
 # Explorando o site
 
 # Tecnologias Utilizadas
