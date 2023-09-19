@@ -21,10 +21,18 @@ E por ultimo temos o Fale conosco, onde está localizado os contatos da loja par
 
 No site foi escolhido o tema camisas de time com imagens das camisas pegas da internet.
 O site foi inspirado em sites de vendas de empesas online.
+
 # Tecnologias Utilizadas
 
-HTML5
-CSS3
+* ``HTML5``
+* ``CSS3``
+* ``Navegador``
+* ``Microsoft Teams``
+* ``Vs code``
+# Referências 
+
+* [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README bom no seu Github.
+* [GitHub Gist](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Dicas de como deixar um README muito melhor.
 
 
 
