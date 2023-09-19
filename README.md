@@ -8,13 +8,19 @@ Meu objetivo nesse site foi de vender camisas de time, mas cada aluno pode
 # Funções
 
 O site tem várias funções interessantes apresentadas e utilizadas em sala;
+
 No cabeçalho temos a página principal, sua função é instruir ao visitante para onde ele vai dentro do site;
+
 Logo após temos a Página de produtos, onde fica os produtos à venda;
+
 Depois temos o Sobre, é nele onde a informações sobre a loja;
+
 E por ultimo temos o Fale conosco, onde está localizado os contatos da loja para o cliente.
 
 # Explorando o site
 
+No site foi escolhido o tema camisas de time com imagens das camisas pegas da internet.
+O site foi inspirado em sites de vendas de empesas online.
 # Tecnologias Utilizadas
 
 HTML5
